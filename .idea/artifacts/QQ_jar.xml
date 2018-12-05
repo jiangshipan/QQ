@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QQ:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QQ_jar</output-path>
+    <root id="archive" name="QQ.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="QQ" />
+      <element id="extracted-dir" path="$USER_HOME$/下载/mysql-connector-java-5.1.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
